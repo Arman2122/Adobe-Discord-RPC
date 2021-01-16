@@ -19,7 +19,7 @@
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Arman2122&style=flat&logo=github&color=black
 [github-url]: https://github.com/Arman2122
 [tlg-logo]: https://img.shields.io/badge/Telegram-ArmanHC-blue
-[tlg-url]: https://t.me/Arman_HC
+[teleg-url]: https://t.me/Arman_HC
 [download-url]: https://github.com/Arman2122/Adobe-Discord-RPC/archive/main.zip
 [download]: https://img.shields.io/static/v1?label=Download&message=Here&style=flat&logo=github&color=black
 
