@@ -13,7 +13,7 @@
 - Run the file `Adobe RPC.exe`
 - Enjoy!
 
-## Download Zip Here
+## Download Link
 ## [![Download][download]][download-url]
 
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Arman2122&style=flat&logo=github&color=black
