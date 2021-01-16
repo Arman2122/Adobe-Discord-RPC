@@ -13,6 +13,14 @@
 - Run the file `Adobe RPC.exe`
 - Enjoy!
 
+
+
+[github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Arman2122&style=flat&logo=github&color=black
+[github-url]: https://github.com/Arman2122
+[tlg-logo]: https://img.shields.io/badge/Telegram-ArmanHC-blue
+[teleg-url]: https://t.me/Arman_HC
+
+
 ## Preview
 
 <div align="center">
