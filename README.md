@@ -19,8 +19,7 @@
 
 <div align="center">
    <img src="https://cdn.discordapp.com/attachments/777483935189303296/800133504779419648/unknown.png" width="30%" />
-   <img src="https://i.imgur.com/Zf6drg7.png" width="30%" />
-   <img src="https://i.imgur.com/CIneIrh.png" width="30%" />
+   <img src="https://cdn.discordapp.com/attachments/777483935189303296/800134787813474344/unknown.png" width="30%" />
 </div>
 
 ## Compatible Apps
