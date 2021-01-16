@@ -1,4 +1,4 @@
-![alt text][header]
+
 
 # Adobe Discord Rich Presence
 
