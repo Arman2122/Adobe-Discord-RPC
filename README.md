@@ -1,6 +1,6 @@
 
 
-# Adobe Discord Rich Presence
+# Adobe Discord Rich Presence - [![GitHub][github-logo]][github-url] - [![ArmanHC][tlg-logo]][teleg-url]
 
 ## Requirements
 
