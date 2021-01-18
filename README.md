@@ -9,8 +9,8 @@
 
 - Download the latest release
 - Make sure you're running an Adobe application.
-- Install the required packages by running the `Install requierements.exe`
-- Run the file `Adobe RPC.exe`
+- Install the required packages by running the `Install requierements.bat`
+- Run the file `Adobe RPC.bat`
 - Enjoy!
 
 ## Download Link
