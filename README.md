@@ -2,8 +2,7 @@
 
 ## Requirements
 
-- Python 3.4+ with Pip
-- Adobe apps
+- Better Discord
 
 ## How to use
 
